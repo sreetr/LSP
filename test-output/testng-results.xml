@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-14T11:27:34 CST" name="Default suite" finished-at="2020-12-14T11:27:41 CST" duration-ms="7064">
+    <groups>
+    </groups>
+    <test started-at="2020-12-14T11:27:34 CST" name="Default test" finished-at="2020-12-14T11:27:41 CST" duration-ms="7064">
+      <class name="com.LifeStylePlan.AdminUIPages.CompanyInformationTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.LifeStylePlan.AdminUIPages.CompanyInformationTest@1a04f701]" started-at="2020-12-14T11:27:29 CST" name="initialize" finished-at="2020-12-14T11:27:34 CST" duration-ms="5233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="beforeTestSuite()[pri:0, instance:com.LifeStylePlan.AdminUIPages.CompanyInformationTest@1a04f701]" started-at="2020-12-14T11:27:34 CST" name="beforeTestSuite" finished-at="2020-12-14T11:27:35 CST" duration-ms="1337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestSuite -->
+        <test-method signature="enterCompanyInfo()[pri:0, instance:com.LifeStylePlan.AdminUIPages.CompanyInformationTest@1a04f701]" started-at="2020-12-14T11:27:35 CST" name="enterCompanyInfo" finished-at="2020-12-14T11:27:41 CST" duration-ms="5701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCompanyInfo -->
+      </class> <!-- com.LifeStylePlan.AdminUIPages.CompanyInformationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

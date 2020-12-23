@@ -1,0 +1,12 @@
+{
+  "host": "https://qa.lifestyleplan.com/login",
+  "capabilities": [
+    {
+      "key": "browserName",
+      "value": "chrome"
+    }
+  ],
+  "chromeOptions": {
+    "args": ["--start-fullscreen"]
+  }
+}
